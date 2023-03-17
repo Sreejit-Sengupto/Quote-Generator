@@ -70,7 +70,10 @@ body{
     .display--section {
         min-height: 60vh;
         min-width: 80vw;
+    }
+
+    .container {
         min-height: 0;
-        padding-top: 30px;
+        padding-top: 20px;
     }
 }
