@@ -15,5 +15,5 @@ function get() {
     const url = 'https://nimble-longma-24b282.netlify.app/.netlify/functions/fetchAI'
     const response = fetch(url)
     const data = response.json();
-    console.log(response);
+    console.log(data);
 }
